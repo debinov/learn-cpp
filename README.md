@@ -1,2 +1,2 @@
-# learn-c-
-Debi learn c++
+# learn cpp
+Debi learn cpp
